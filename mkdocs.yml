@@ -91,10 +91,14 @@ nav:
   - Useful Tools: 
     - "GNU Make": "Useful Tools/Makefile.md"
     - "CMake": "Useful Tools/CMake.md"
+    - "MIT-Missing-Semester": "Useful Tools/MIT-Missing-Semester.md "
 
   - Functional Programming: 
     - "Haskell": "Functional Programming/Haskell.md"
     - "Lean4": "Functional Programming/Lean4.md"
+
+  - Large Language Model: 
+    - "LangChain": "LLM Development/LangChain.md"
 
   - Object-Oriented Programming: 
     - "Java": "OOP/Java.md"
@@ -112,4 +116,12 @@ nav:
   - Database Systems: 
     - "CMU 15-445: Database Systems": "Datebase Systems/CMU15-445.md"
 
+  - Machine Learning: 
+    - "UCB CS189: Introduction to Machine Learning": "Machine Learning/CS189.md"
+
+  - Deep Learning: 
+    - "Stanford CS224n: Natural Language Processing": "Deep Learning/CS224n.md"
+
+  - Computer Vision: 
+    - "UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision": "Computer Vision/EECS-498.md"
   
