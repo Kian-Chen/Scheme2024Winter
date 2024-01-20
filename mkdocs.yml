@@ -26,18 +26,19 @@ theme:
   search_index_only: true
 
   shortcuts:
-    help: 191    # ?
-    next: 78     # n
-    next: 39     # ->
-    previous: 80 # p
-    previous: 37 # <-
-    search: 83   # s
-    search: 191  # ?
-    toggle_dark: 84 # t
-    toggle_header: 72 # h
-    toggle_nav: 77 # m
-    toggle_search: 83 # s
-    toggle_toolbar: 85 # u
+    open_help: 191        # ?
+    navigate_next: 78     # n
+    navigate_next_alt: 39 # ->
+    navigate_previous: 80 # p
+    navigate_previous_alt: 37 # <-
+    open_search: 83       # s
+    open_search_alt: 191  # ?
+    toggle_dark_mode: 84   # t
+    toggle_header: 72      # h
+    toggle_navigation: 77  # m
+    toggle_search: 83      # s
+    toggle_toolbar: 85     # u
+
 
   palette:
     - media: "(prefers-color-scheme: light)"
