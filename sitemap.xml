@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://Kian-Chen.github.io/Scheme2024Winter/Computer%20Vision/OpenCV/</loc>
+         <lastmod>2024-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Datebase%20Systems/CMU15-445/</loc>
          <lastmod>2024-01-20</lastmod>
          <changefreq>daily</changefreq>
@@ -52,6 +57,11 @@
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Useful%20Tools/CMake/</loc>
+         <lastmod>2024-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://Kian-Chen.github.io/Scheme2024Winter/Useful%20Tools/GDB/</loc>
          <lastmod>2024-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
