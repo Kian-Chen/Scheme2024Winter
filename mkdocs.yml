@@ -91,7 +91,7 @@ nav:
   - Useful Tools: 
     - "GNU Make": "Useful Tools/Makefile.md"
     - "CMake": "Useful Tools/CMake.md"
-    - "MIT-Missing-Semester": "Useful Tools/MIT-Missing-Semester.md "
+    - "MIT-Missing-Semester": "Useful Tools/MIT-Missing-Semester.md"
 
   - Functional Programming: 
     - "Haskell": "Functional Programming/Haskell.md"
