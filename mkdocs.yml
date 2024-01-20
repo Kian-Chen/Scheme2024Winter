@@ -1,10 +1,10 @@
 site_name: My Docs
-site_url: https://Kian-Chen.github.io/
+site_url: https://Kian-Chen.github.io/Scheme2024Winter
 site_author: Kian-Chen
 site_description: >-
   A scheme for 2024 Winter
 
-repo_url: https://github.com/Kian-Chen/Kian-Chen.github.io
+repo_url: https://github.com/Kian-Chen/Scheme2024Winter
 repo_name: Scheme2024Winter
 
 copyright: Copyright &copy; 2024-present <a href="https://github.com/Kian-Chen" target="_blank" rel="noopener noreferrer">Kian Chen</a>
@@ -61,9 +61,21 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+  custom_dir: overrides
+
+
 
 plugins:
   - search
   - minify:
       minify_html: true
-  - git-revision-date-localized:
+  - git-revision-date-localized
+  - git-authors
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/pkuflyingpig/cs-self-learning/
+  analytics:
+    provider: google
+    property: G-KJB4RXSKZG
