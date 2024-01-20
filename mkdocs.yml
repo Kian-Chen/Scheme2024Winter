@@ -1,0 +1,69 @@
+site_name: My Docs
+site_url: https://Kian-Chen.github.io/
+site_author: Kian-Chen
+site_description: >-
+  A scheme for 2024 Winter
+
+repo_url: https://github.com/Kian-Chen/Kian-Chen.github.io
+repo_name: Scheme2024Winter
+
+copyright: Copyright &copy; 2024-present <a href="https://github.com/Kian-Chen" target="_blank" rel="noopener noreferrer">Kian Chen</a>
+
+theme:
+  name: material
+  language: zh
+
+  features:
+  - header.autohide
+  - navigation.tracking
+  - navigation.top
+  - search.highlight
+  - search.share
+  - search.suggest
+  - content.code.annotate
+
+  include_search_page: false
+  search_index_only: true
+
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    next: 39     # ->
+    previous: 80 # p
+    previous: 37 # <-
+    search: 83   # s
+    search: 191  # ?
+    toggle_dark: 84 # t
+    toggle_header: 72 # h
+    toggle_nav: 77 # m
+    toggle_search: 83 # s
+    toggle_toolbar: 85 # u
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  font:
+    text: Roboto Slab
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
