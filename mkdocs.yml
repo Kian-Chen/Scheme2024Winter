@@ -92,6 +92,7 @@ nav:
   - Useful Tools: 
     - "GNU Make": "Useful Tools/Makefile.md"
     - "CMake": "Useful Tools/CMake.md"
+    - "GNU Debuger": "Useful Tools/GDB.md"
     - "MIT-Missing-Semester": "Useful Tools/MIT-Missing-Semester.md"
 
   - Functional Programming: 
@@ -124,5 +125,6 @@ nav:
     - "Stanford CS224n: Natural Language Processing": "Deep Learning/CS224n.md"
 
   - Computer Vision: 
+    - "OpenCV": "Computer Vision/OpenCV.md"
     - "UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision": "Computer Vision/EECS-498.md"
   
