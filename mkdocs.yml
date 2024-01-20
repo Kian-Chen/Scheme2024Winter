@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Scheme MkDocs
 site_url: https://Kian-Chen.github.io/Scheme2024Winter
 site_author: Kian-Chen
 site_description: >-
@@ -84,3 +84,7 @@ markdown_extensions:
 
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+nav:
+  - Home: index.md
+  - Cumputer Network: CS144.md
