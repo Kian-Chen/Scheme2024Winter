@@ -87,4 +87,29 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Cumputer Network: CS144.md
+
+  - Useful Tools: 
+    - "GNU Make": "Useful Tools/Makefile.md"
+    - "CMake": "Useful Tools/CMake.md"
+
+  - Functional Programming: 
+    - "Haskell": "Functional Programming/Haskell.md"
+    - "Lean4": "Functional Programming/Lean4.md"
+
+  - Object-Oriented Programming: 
+    - "Java": "OOP/Java.md"
+
+  - Web Framework: 
+    - "MkDocs": "Web Framework/MkDocs.md"
+    - "Streamlit": "Web Framework/Streamlit.md"
+    - "Vue.js": "Web Framework/Vue.md"
+    - "Flask": "Web Framework/Flask.md"
+    - "Django": "Web Framework/Django.md"
+
+  - Cumputer Network: 
+    - "Stanford CS144: Computer Network": "Computer Network/CS144.md"
+
+  - Database Systems: 
+    - "CMU 15-445: Database Systems": "Datebase Systems/CMU15-445.md"
+
+  
