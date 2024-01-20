@@ -75,7 +75,12 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/pkuflyingpig/cs-self-learning/
-  analytics:
-    provider: google
-    property: G-KJB4RXSKZG
+      link: https://Kian-Chen.github.io/Scheme2024Winter
+
+markdown_extensions:
+    - toc:
+        permalink: true
+    - pymdownx.arithmatex
+
+extra_javascript:
+    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
