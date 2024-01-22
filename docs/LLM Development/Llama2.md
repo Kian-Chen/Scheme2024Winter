@@ -1,5 +1,11 @@
 #   Llama2
 
+##   Localizing Llama2
+
+可以参考以下资料以部署Llama2：
+- [LLM探索：环境搭建与模型本地部署](https://zhuanlan.zhihu.com/p/630860436)
+- [本地部署开源大模型的完整教程：LangChain + Streamlit+ Llama](https://zhuanlan.zhihu.com/p/639565332)
+
 
 
 ##   Introduction

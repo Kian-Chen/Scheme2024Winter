@@ -91,6 +91,7 @@ nav:
 
   - Useful Tools: 
     - "GNU Make": "Useful Tools/Makefile.md"
+    - "Docker": "Useful Tools/Docker.md"
     - "CMake": "Useful Tools/CMake.md"
     - "GNU Debuger": "Useful Tools/GDB.md"
     - "MIT-Missing-Semester": "Useful Tools/MIT-Missing-Semester.md"

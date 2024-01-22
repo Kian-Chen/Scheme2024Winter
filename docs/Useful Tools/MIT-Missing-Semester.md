@@ -1,28 +1,22 @@
 #   MIT: The Missing Semester of Your CS Education
 
-## Overview
+## 课程简介
 
-MIT offers a free, online course called "The Missing Semester of Your CS Education" that provides a comprehensive overview of the core concepts and techniques used in computer science. The course is taught by professors from MIT and Harvard, and is designed to be accessible to anyone with a basic understanding of computer science. The course covers topics such as programming languages, algorithms, data structures, and systems programming, as well as topics such as software engineering, security, and ethics. The course is taught in a way that is easy to understand and engaging, and includes a series of weekly quizzes and assignments to test the students' understanding of the material.
+- 先修要求：无
+- 编程语言：shell
+- 课程难度：🌟🌟
+- 预计学时：10 小时
 
-## Prerequisites
+正如课程名字所言：“计算机教学中消失的一个学期”，这门课将会教会你许多大学的课堂上不会涉及但却对每个 CSer 无比重要的工具或者知识点。例如 Shell 编程、命令行配置、Git、Vim、`tmux`、`ssh` 等等。如果你是一个计算机小白，那么我非常建议你学习一下这门课，因为它基本涉及了本书必学工具中的绝大部分内容。
 
-To take this course, you should have a basic understanding of computer science concepts and programming. You should also have some experience with programming in a high-level language such as Python or Java. If you are not familiar with these languages, you may want to review some of the basic syntax and concepts before taking the course.    
+除了 MIT 官方的学习资料外，北京大学图灵班开设的前沿计算实践中也开设了相关课程，资料位于[这个网站](http://vcl.pku.edu.cn/course/PFCII/2021-spring/index.html)下，供大家参考。
 
-## Course Outline
+## 课程资源
 
-The course is divided into 10 modules, each covering a different topic. The modules are:
-
-1. Programming Languages and Tools
-2. Algorithms and Data Structures
-3. Operating Systems and Systems Programming
-4. Computer Networks and Security
-5. Databases and Distributed Systems
-6. Software Engineering
-7. Compilers and Interpreters
-8. Machine Learning and Neural Networks
-9. Ethics and Law
-10. The Future of Computer Science
-
-Each module includes lectures, readings, and assignments. The lectures cover the core concepts and techniques used in the topic, while the readings provide additional background information. The assignments are designed to test the students' understanding of the material and prepare them for the exams.
-
-## Course Schedule
+- 课程网站：<https://missing.csail.mit.edu/2020/>
+- 课程中文网站: <https://missing-semester-cn.github.io/>
+- 课程视频：<https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J>
+- 课程中文字幕视频：
+    - Missing_Semi_中译组（未完结）：<https://space.bilibili.com/1010983811?spm_id_from=333.337.search-card.all.click>
+    - 刘黑黑a（已完结）：<https://space.bilibili.com/518734451?spm_id_from=333.337.search-card.all.click>
+- 课程作业：一些随堂小练习，具体见课程网站。
