@@ -33,3 +33,11 @@ To add a list of movies and their ratings, replace the code in `app.py` with the
 import streamlit as st
 
 # Create a list of movies and their ratings
+```
+
+##  Pydeck
+
+Pydeck is a Python library for creating data visualizations using deck.gl, an open-source WebGL-based visualization framework. We can use it to create a map of the movies and their ratings.
+
+- [https://deckgl.readthedocs.io/](https://deckgl.readthedocs.io/)
+- [heatmap](https://deckgl.readthedocs.io/en/latest/gallery/heatmap_layer.html)

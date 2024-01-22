@@ -105,6 +105,7 @@ nav:
     - "LangChain": "LLM Development/LangChain.md"
 
   - Object-Oriented Programming: 
+    - "C++": "OOP/C++.md"
     - "Java": "OOP/Java.md"
 
   - Web Framework: 
