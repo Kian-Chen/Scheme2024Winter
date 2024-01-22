@@ -100,6 +100,7 @@ nav:
     - "Lean4": "Functional Programming/Lean4.md"
 
   - Large Language Model: 
+    - "Llama2": "LLM Development/Llama2.md"
     - "LangChain": "LLM Development/LangChain.md"
 
   - Object-Oriented Programming: 
