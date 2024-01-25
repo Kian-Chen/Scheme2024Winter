@@ -2,117 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Computer%20Network/CS144/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Computer%20Vision/EECS-498/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Computer%20Vision/OpenCV/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Datebase%20Systems/CMU15-445/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Deep%20Learning/CS224n/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Functional%20Programming/Haskell/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Functional%20Programming/Lean4/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/LLM%20Development/LangChain/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/LLM%20Development/Llama2/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Machine%20Learning/CS189/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/OOP/C%2B%2B/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/OOP/Java/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://Kian-Chen.github.io/Scheme2024Winter/Potpourri/Manim/</loc>
+         <lastmod>2024-01-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://Kian-Chen.github.io/Scheme2024Winter/Potpourri/SocketIO/</loc>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Useful%20Tools/CMake/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Useful%20Tools/Docker/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Useful%20Tools/GDB/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Useful%20Tools/MIT-Missing-Semester/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Useful%20Tools/Makefile/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Web%20Framework/Django/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Web%20Framework/Flask/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Web%20Framework/MkDocs/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Web%20Framework/Streamlit/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Kian-Chen.github.io/Scheme2024Winter/Web%20Framework/Vue/</loc>
-         <lastmod>2024-01-22</lastmod>
+         <lastmod>2024-01-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
