@@ -96,6 +96,10 @@ nav:
     - "GNU Debuger": "Useful Tools/GDB.md"
     - "MIT-Missing-Semester": "Useful Tools/MIT-Missing-Semester.md"
 
+  - Potpourri: 
+    - "Manim": "Potpourri/Manim.md"
+    - "Socket.IO": "Potpourri/SocketIO.md"
+
   - Functional Programming: 
     - "Haskell": "Functional Programming/Haskell.md"
     - "Lean4": "Functional Programming/Lean4.md"
