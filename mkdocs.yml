@@ -94,6 +94,7 @@ nav:
     - "Docker": "Useful Tools/Docker.md"
     - "CMake": "Useful Tools/CMake.md"
     - "GNU Debuger": "Useful Tools/GDB.md"
+    - "Regex": "Useful Tools/Regex.md"
     - "MIT-Missing-Semester": "Useful Tools/MIT-Missing-Semester.md"
 
   - Potpourri: 
