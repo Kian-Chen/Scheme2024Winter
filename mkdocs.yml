@@ -100,6 +100,8 @@ nav:
   - Potpourri: 
     - "Manim": "Potpourri/Manim.md"
     - "Socket.IO": "Potpourri/SocketIO.md"
+    - "CUDA": "Potpourri/CUDA.md"
+    - "Huggingface": "Potpourri/Huggingface.md"
 
   - Functional Programming: 
     - "Haskell": "Functional Programming/Haskell.md"
@@ -117,10 +119,11 @@ nav:
     - "MkDocs": "Web Framework/MkDocs.md"
     - "Streamlit": "Web Framework/Streamlit.md"
     - "Vue.js": "Web Framework/Vue.md"
+    - "React": "Web Framework/React.md"
     - "Flask": "Web Framework/Flask.md"
     - "Django": "Web Framework/Django.md"
 
-  - Cumputer Network: 
+  - Computer Network: 
     - "Stanford CS144: Computer Network": "Computer Network/CS144.md"
 
   - Database Systems: 
